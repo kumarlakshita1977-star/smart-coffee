@@ -1,0 +1,6 @@
+{
+  "name": "Smart Coffee Recommendation System",
+  "description": "A smart AI-driven cafe app featuring personalized coffee recommendations, customer CRM tracking, loyalty rewards, and a comprehensive admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
